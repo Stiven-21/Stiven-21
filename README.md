@@ -420,3 +420,7 @@ Estoy abierto a contribuir en proyectos de **cualquier tipo**.
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
+Credits: [Stiven-21](https://github.com/Stiven-21)
+
+Last Edited on: 4/02/2026
