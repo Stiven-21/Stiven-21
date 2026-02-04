@@ -103,8 +103,22 @@ const james = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stiven-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven-21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Stiven-21">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stiven-21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Stiven-21">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stiven-21&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stiven-21&theme=tokyonight)
+  
+ </div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Stiven-21&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -120,7 +134,7 @@ const james = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stiven-21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stiven-21&row=2&column=6&theme=tokyo-night&column=8&no-frame=false&no-bg=false" alt="Stiven-21"></a></p>
 </p>
 
 ---
@@ -156,10 +170,10 @@ const james = {
 
 <p align="center">
   <a href="https://github.com/Stiven-21/nestjs-auth-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=nestjs-auth-backend&theme=tokyonight&hide_border=true" alt="NestJS Auth Backend" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=nestjs-auth-backend&theme=tokyo-night&hide_border=true" alt="NestJS Auth Backend" />
   </a>
   <a href="https://github.com/Stiven-21/mi-portafolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=mi-portafolio&theme=tokyonight&hide_border=true" alt="Mi Portafolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=mi-portafolio&theme=tokyo-night&hide_border=true" alt="Mi Portafolio" />
   </a>
 </p>
 
