@@ -1,10 +1,12 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy James Cordoba
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ¡Hola! Soy James Cordoba
 
 ### 💻 Desarrollador Full Stack | 🚀 Creador de Soluciones Escalables
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Full+Stack;Apasionado+por+el+código+limpio;Creando+el+futuro+con+tecnología)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Stiven-21&color=blueviolet&style=for-the-badge&label=Visitas+al+Perfil)](https://github.com/Stiven-21)
 [![GitHub followers](https://img.shields.io/github/followers/Stiven-21?label=Seguidores&style=for-the-badge&color=blue&logo=github)](https://github.com/Stiven-21?tab=followers)
