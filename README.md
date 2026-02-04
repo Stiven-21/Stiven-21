@@ -118,7 +118,7 @@ const james = {
  </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Stiven-21&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Stiven-21&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -126,7 +126,7 @@ const james = {
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stiven-21&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Stiven-21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -170,10 +170,10 @@ const james = {
 
 <p align="center">
   <a href="https://github.com/Stiven-21/nestjs-auth-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=nestjs-auth-backend&theme=tokyo-night&hide_border=true" alt="NestJS Auth Backend" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Stiven-21&repo=nestjs-auth-backend&theme=tokyonight&hide_border=true" alt="NestJS Auth Backend" />
   </a>
   <a href="https://github.com/Stiven-21/mi-portafolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=mi-portafolio&theme=tokyo-night&hide_border=true" alt="Mi Portafolio" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Stiven-21&repo=mi-portafolio&theme=tokyonight&hide_border=true" alt="NestJS Auth Backend" />
   </a>
 </p>
 
