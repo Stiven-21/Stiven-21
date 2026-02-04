@@ -119,10 +119,6 @@ const james = {
   
  </div>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Stiven-21&theme=dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
