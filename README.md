@@ -102,30 +102,26 @@ const james = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stiven-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven-21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stiven-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiven-21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stiven-21&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stiven-21&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Stiven-21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Stiven-21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -138,60 +134,68 @@ const james = {
 
 </div>
 
-<details>
-  <summary><b>📈 Más Estadísticas de Codificación</b></summary>
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stiven_21&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-  
-</details>
-
 ---
 
 ## 📈 Gráfico de Actividad
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stiven-21&theme=tokyo-night&hide_border=true&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2030%20d%C3%ADas)](https://github.com/Stiven-21)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stiven-21&theme=tokyo-night&hide_border=true&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2030%20d%C3%ADas" alt="Activity Graph" />
+</p>
 
 ---
 
 ## 🐍 Contribuciones
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Stiven-21/Stiven-21/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stiven-21/Stiven-21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 🎯 Proyectos Destacados
 
-<div align="center">
-
-[![NestJS Auth Backend](https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=nestjs-auth-backend&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/Stiven-21/nestjs-auth-backend)
-[![Mi Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=mi-portafolio&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/Stiven-21/mi-portafolio)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Stiven-21/nestjs-auth-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=nestjs-auth-backend&theme=tokyonight&hide_border=true" alt="NestJS Auth Backend" />
+  </a>
+  <a href="https://github.com/Stiven-21/mi-portafolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stiven-21&repo=mi-portafolio&theme=tokyonight&hide_border=true" alt="Mi Portafolio" />
+  </a>
+</p>
 
 ### 🚀 Proyectos en los que Estoy Trabajando
 
-- **🔐 Sistema de Autenticación Completo (Open Source)**
-  - ✅ Autenticación con credenciales
-  - ✅ OAuth (Google, GitHub, Facebook)
-  - ✅ Autenticación de dos factores (2FA)
-  - 🔄 Recuperación de contraseña
-  - 🔄 Verificación de email
-  - 📚 Stack: NestJS, TypeScript, PostgreSQL, JWT
+<table>
+<tr>
+<td width="50%">
 
-- **🛒 Plataforma eCommerce (Próximamente)**
-  - Arquitectura de microservicios
-  - Sistema de pagos integrado
-  - Panel de administración
-  - 📚 Stack: Next.js, NestJS, MongoDB, Docker
+#### 🔐 Sistema de Autenticación Completo
+
+**Stack:** NestJS, TypeScript, PostgreSQL, JWT
+
+- ✅ Autenticación con credenciales
+- ✅ OAuth (Google, GitHub, Facebook)
+- ✅ Autenticación de dos factores (2FA)
+- 🔄 Recuperación de contraseña
+- 🔄 Verificación de email
+- 📚 Open Source
+
+</td>
+<td width="50%">
+
+#### 🛒 Plataforma eCommerce
+
+**Stack:** Next.js, NestJS, MongoDB, Docker
+
+- 🔄 Arquitectura de microservicios
+- 🔄 Sistema de pagos integrado
+- 🔄 Panel de administración
+- 🔄 API RESTful y GraphQL
+- 📚 Próximamente
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -199,80 +203,6 @@ const james = {
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-## 🌍 Idiomas
-
-🇪🇸 **Español** - Nativo  
-🇺🇸 **Inglés** - Intermedio (B1-B2)
-
----
-
-## 📫 Conecta Conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-cordoba-a93437272)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CordobaStiveen)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stiveen1821/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stiveen.cordoba/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jam-dev-fullstack.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.jamescordoba@gmail.com)
-[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Stiven_21)
-
-</div>
-
----
-
-## 💡 Filosofía de Código
-
-<div align="center">
-
-```javascript
-while (alive) {
-  eat();
-  sleep();
-  code();
-  repeat();
-}
-```
-
-> _"El código es como el humor. Cuando tienes que explicarlo, es malo."_ – Cory House
-
-> _"Primero, resuelve el problema. Luego, escribe el código."_ – John Johnson
-
-</div>
-
----
-
-## 📊 Estadísticas Detalladas
-
-<div align="center">
-
-```text
-📅 Miembro de GitHub desde hace varios años
-🌟 Comprometido con el código limpio y las mejores prácticas
-🔥 Racha actual: Mantente conectado para ver mis contribuciones
-💪 Enfocado en: Arquitectura escalable y seguridad
-
-🌞 Horario de Mayor Productividad
-🌃 Noche                          ████████████████░   80%
-🌆 Tarde                          ████████████░░░░░   60%
-🌅 Mañana                         ████████░░░░░░░░░   40%
-
-💻 Áreas de Expertise
-Backend Development              ████████████████░   85%
-Frontend Development             ███████████████░░   75%
-DevOps & Cloud                   ████████████░░░░░   60%
-Database Design                  ███████████████░░   80%
-
-⚙️ Entornos de Desarrollo
-Linux                            ████████████████░   80%
-Windows                          ████████████░░░░░   60%
-```
-
-</div>
 
 ---
 
@@ -293,16 +223,16 @@ Windows                          ████████████░░░�
 
 ---
 
-## 🎯 Objetivos 2026
+## 🌍 Idiomas
 
-- [ ] Contribuir a 5+ proyectos open source
-- [ ] Completar el sistema de autenticación open source
-- [ ] Lanzar la plataforma eCommerce
-- [ ] Dominar arquitectura de microservicios
-- [ ] Aprender Kubernetes
-- [ ] Obtener certificación en AWS
-- [ ] Escribir artículos técnicos en blog
-- [ ] Alcanzar 1000 estrellas en GitHub
+<div align="center">
+
+| Idioma     | Nivel              |
+| ---------- | ------------------ |
+| 🇪🇸 Español | Nativo             |
+| 🇺🇸 Inglés  | Intermedio (B1-B2) |
+
+</div>
 
 ---
 
@@ -330,7 +260,7 @@ Windows                          ████████████░░░�
 - ✅ Autenticación y autorización (JWT, OAuth, 2FA)
 - ✅ Arquitectura de microservicios
 - ✅ WebSocket para tiempo real
-- ✅ Procesamiento asíncrono con colas (Bull, RabbitMQ)
+- ✅ Procesamiento asíncrono con colas
 - ✅ Frameworks: Laravel, Spring Boot, FastAPI, Flask
 
 </details>
@@ -363,33 +293,105 @@ Windows                          ████████████░░░�
 
 ---
 
+## 🎯 Objetivos 2026
+
+<div align="center">
+
+| Objetivo                                       | Estado          |
+| ---------------------------------------------- | --------------- |
+| Contribuir a 5+ proyectos open source          | 🔄 En progreso  |
+| Completar sistema de autenticación open source | 🔄 En progreso  |
+| Lanzar plataforma eCommerce                    | 📅 Planificado  |
+| Dominar arquitectura de microservicios         | 🔥 Aprendiendo  |
+| Aprender Kubernetes                            | 📚 Próximamente |
+| Obtener certificación AWS                      | 📅 Planificado  |
+| Alcanzar 1000 estrellas en GitHub              | 🎯 Meta         |
+
+</div>
+
+---
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-cordoba-a93437272)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CordobaStiveen)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stiveen1821/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stiveen.cordoba/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jam-dev-fullstack.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.jamescordoba@gmail.com)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Stiven_21)
+
+</div>
+
+---
+
+## 💡 Filosofía de Código
+
+<div align="center">
+
+```javascript
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
+
+### 💭 Frases que me Inspiran
+
+> _"El código es como el humor. Cuando tienes que explicarlo, es malo."_ – Cory House
+
+> _"Primero, resuelve el problema. Luego, escribe el código."_ – John Johnson
+
+> _"El código limpio siempre parece haber sido escrito por alguien a quien le importa."_ – Robert C. Martin
+
+</div>
+
+---
+
+## 📊 Estadísticas de Contribución
+
+<div align="center">
+
+```text
+📅 Años en GitHub: Varios
+💻 Commits totales: Ver estadísticas arriba
+🌟 Estrellas recibidas: Ver perfil
+🔄 Contribuciones públicas: Actualizadas diariamente
+🚀 Proyectos activos: 2+
+📚 Repositorios públicos: Ver perfil
+
+🌞 Horario Preferido para Codificar
+🌃 Noche (8pm - 2am)          ████████████████░   80%
+🌆 Tarde (2pm - 8pm)          ████████████░░░░░   60%
+🌅 Mañana (6am - 12pm)        ████████░░░░░░░░░   40%
+
+💻 Áreas de Expertise
+Backend Development           ████████████████░   85%
+Frontend Development          ███████████████░░   75%
+Database Design               ███████████████░░   80%
+DevOps & Cloud                ████████████░░░░░   60%
+```
+
+</div>
+
+---
+
 ## 🤝 Contribuciones Open Source
 
 <div align="center">
 
 [![Contribuciones](https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen?style=for-the-badge&logo=github)](https://github.com/Stiven-21)
 
-¡Me encanta colaborar en proyectos open source! Si tienes un proyecto interesante, no dudes en contactarme.
+### ¿Tienes un proyecto interesante?
 
-</div>
+¡Me encanta colaborar en proyectos open source!  
+Estoy abierto a contribuir en proyectos de **cualquier tipo**.
 
----
-
-## 📈 Métricas del Perfil
-
-<div align="center">
-
-![Métricas](https://metrics.lecoq.io/Stiven-21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&habits=1&followup=1&people=1&achievements=1&notable=1&discussions=1&activity=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions=false&discussions.categories=true&discussions.categories.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&repositories.pinned=0&config.timezone=America%2FBogota)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default)
+📧 Contáctame: **ing.jamescordoba@gmail.com**
 
 </div>
 
@@ -400,6 +402,8 @@ Windows                          ████████████░░░�
 ### ⭐ Si te gustan mis proyectos, ¡no olvides dejar una estrella!
 
 **Gracias por visitar mi perfil** ❤️
+
+---
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
