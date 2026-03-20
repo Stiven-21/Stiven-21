@@ -144,7 +144,7 @@ const james = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
@@ -218,7 +218,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 01:57:56 UTC
+ Last Updated on 20/03/2026 06:53:48 UTC
 <!--END_SECTION:waka-->
 
 </div>
