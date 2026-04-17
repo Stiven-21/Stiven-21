@@ -185,19 +185,16 @@ Domingo                  34 commits          █░░░░░░░░░░�
 🕑︎ Zona Horaria: America/Bogota
 
 💬 Lenguajes: 
-TypeScript               9 mins              █████████████████░░░░░░░░   68.07 % 
-JSON                     4 mins              ████████░░░░░░░░░░░░░░░░░   30.38 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+Sin actividad registrada esta semana
 
 🐱‍💻 Proyectos: 
-web                      9 mins              █████████████████░░░░░░░░   69.62 % 
-Unknown Project          4 mins              ████████░░░░░░░░░░░░░░░░░   30.38 % 
+Sin actividad registrada esta semana
 
 💻 Sistema Operativo: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Sin actividad registrada esta semana
 ```
 
 **Programo principalmente en TypeScript** 
@@ -213,7 +210,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 07:44:07 UTC
+ Last Updated on 17/04/2026 13:16:05 UTC
 <!--END_SECTION:waka-->
 
 </div>
