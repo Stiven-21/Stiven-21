@@ -144,6 +144,8 @@ const james = {
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2052%20mins-blue?style=flat)
+
 **🐱 Mis datos de GitHub** 
 
 > 📦 34.6 kB Almacenamiento de GitHub utilizado 
@@ -208,7 +210,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 08:47:22 UTC
+ Last Updated on 15/05/2026 14:03:06 UTC
 <!--END_SECTION:waka-->
 
 </div>
