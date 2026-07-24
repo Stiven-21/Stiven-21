@@ -144,8 +144,6 @@ const james = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2012%20mins-blue?style=flat)
-
 **🐱 Mis datos de GitHub** 
 
 > 📦 35.1 kB Almacenamiento de GitHub utilizado 
@@ -158,45 +156,6 @@ const james = {
  > 
 > 🔑 26 Repositorios Privados 
  > 
-**Soy diurno 🐤** 
-
-```text
-🌞 Mañana                 146 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-🌆 Día                    223 commits         █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌃 Tarde                  213 commits         █████████░░░░░░░░░░░░░░░░   34.08 % 
-🌙 Noche                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-```
-📅 **Soy más productivo los Viernes** 
-
-```text
-Lunes                    95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Martes                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Miércoles                131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Jueves                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Viernes                  134 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Sábado                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Domingo                  36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-```
-
-
-📊 **Esta semana me dediqué a** 
-
-```text
-🕑︎ Zona Horaria: America/Bogota
-
-💬 Lenguajes: 
-Sin actividad registrada esta semana
-
-🔥 Editores: 
-Sin actividad registrada esta semana
-
-🐱‍💻 Proyectos: 
-Sin actividad registrada esta semana
-
-💻 Sistema Operativo: 
-Sin actividad registrada esta semana
-```
-
 **Programo principalmente en TypeScript** 
 
 ```text
@@ -210,7 +169,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:29:22 UTC
+ Last Updated on 24/07/2026 08:24:47 UTC
 <!--END_SECTION:waka-->
 
 </div>
